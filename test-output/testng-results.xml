@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1417" started-at="2018-08-21T10:58:10Z" finished-at="2018-08-21T10:58:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1417" started-at="2018-08-21T10:58:10Z" finished-at="2018-08-21T10:58:12Z">
+      <class name="com.epam.webservices.training.tests.RestAssuredDemoTest">
+        <test-method status="PASS" signature="initTest()[pri:0, instance:com.epam.webservices.training.tests.RestAssuredDemoTest@2a2d45ba]" name="initTest" is-config="true" duration-ms="335" started-at="2018-08-21T13:58:10Z" finished-at="2018-08-21T13:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTest -->
+        <test-method status="PASS" signature="checkResponseBody()[pri:0, instance:com.epam.webservices.training.tests.RestAssuredDemoTest@2a2d45ba]" name="checkResponseBody" duration-ms="935" started-at="2018-08-21T13:58:11Z" finished-at="2018-08-21T13:58:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseBody -->
+        <test-method status="PASS" signature="checkResponseHeader()[pri:0, instance:com.epam.webservices.training.tests.RestAssuredDemoTest@2a2d45ba]" name="checkResponseHeader" duration-ms="69" started-at="2018-08-21T13:58:12Z" finished-at="2018-08-21T13:58:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseHeader -->
+        <test-method status="PASS" signature="checkStatusCode()[pri:0, instance:com.epam.webservices.training.tests.RestAssuredDemoTest@2a2d45ba]" name="checkStatusCode" duration-ms="61" started-at="2018-08-21T13:58:12Z" finished-at="2018-08-21T13:58:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCode -->
+      </class> <!-- com.epam.webservices.training.tests.RestAssuredDemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
